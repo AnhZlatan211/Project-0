@@ -19,6 +19,7 @@ public class Doanhdate {
         doanhlist.add("conlonpeo");
         doanhlist.remove(2);
 
+        //qrqưèqưe
         System.out.println(doanhlist);
         for (String a : doanhlist) {
             System.out.println(a);
